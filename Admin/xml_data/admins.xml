@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<admins>
+  <admin>
+    <fname>saad</fname>
+    <uname>saad123</uname>
+    <pass>saad#123</pass>
+    <gender>Male</gender>
+    <email>mahiulalamsaad@gmail.com</email>
+    <phone>01900000</phone>
+    <city>Dhaka</city>
+  </admin>
+</admins>
