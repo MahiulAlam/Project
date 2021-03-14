@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<orders>
+  <order>
+    <bname>pizza</bname>
+    <category>Fastfoods</category>
+    <description>with extra chess</description>
+    <foodid>12</foodid>
+    <quantity>450</quantity>
+    <price>250</price>
+    <image>images/defaultorder.png</image>
+  </order>
+  <order>
+    <bname>burger</bname>
+    <category>Fast foods</category>
+    <description>with extra chess</description>
+    <foodid>455</foodid>
+    <quantity>10</quantity>
+    <price>450</price>
+    <image>images/defaultorder.png</image>
+  </order>
+</orders>
