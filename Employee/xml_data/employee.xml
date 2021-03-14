@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<employees>
+  <employee>
+    <fname>arif</fname>
+    <uname>arif12</uname>
+    <pass>arif#123</pass>
+    <gender>Male</gender>
+    <email>arif@</email>
+    <phone>33</phone>
+    <city>Sylhet</city>
+  </employee>
+</employees>
