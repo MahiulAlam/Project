@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<admins>
+  <admin>
+    <fname>Hridy</fname>
+    <uname>Hridy123</uname>
+    <pass>Hridy#123</pass>
+    <gender>Female</gender>
+    <email>hridy@</email>
+    <phone>55555</phone>
+    <city>Dhaka</city>
+  </admin>
+</admins>

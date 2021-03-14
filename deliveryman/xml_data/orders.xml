@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<orders>
+  
+  <order>
+    <bname>burger</bname>
+    <category>Fastfoods</category>
+    <description>with extra cheese</description>
+    <foodid>12</foodid>
+    <quantity>2</quantity>
+    <price>120</price>
+  </order>
+</orders>
